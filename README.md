@@ -2,7 +2,7 @@
 <p align="center">
 <img width="200px" src="https://i.pinimg.com/originals/26/6f/4e/266f4e921360ef518df4dd7e95a2b922.gif"></p>
 
-Sou estudante do curso de **Desenvolvimento de Software Multiplataforma - FATEC**, tambem sou **Tecnico em Informática - ETEC** e **Tecnico em Desenvolvimento de Sistemas - ETEC**
+Sou estudante do curso de **Desenvolvimento de Software Multiplataforma - FATEC**, tambem sou formado em **Tecnico em Informática - ETEC** e **Tecnico em Desenvolvimento de Sistemas - ETEC**
 
 -  Apaixonado Por Tecnologia. 😍
 - Gosto de Ajudar a Comunidade Stack Overflow. 😃
