@@ -1,16 +1,49 @@
-### Hi there 👋
+## ☑ Hello Dev 
+Sou estudante do curso de **Desenvolvimento de Software Multiplataforma - FATEC**, tambem sou **Tecnico em Informática - ETEC** e **Tecnico em Desenvolvimento de Sistemas - ETEC**
 
-<!--
-**Zereis240620/Zereis240620** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-  Apaixonado Por Tecnologia. 😍
+- Gosto de Ajudar a Comunidade Stack Overflow. 😃
+- Developer Generalist 💻
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zereis240620&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zereis240620&layout=compact)](https://github.com/Zereis240620/github-readme-stats)
+## ☑ Minhas Habilidades 💡🚀
+<p float="left">
+<img width="100px" 
+	 height="200px"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+<img width="100px"  
+height="200px"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img width="100px"  
+height="200px"	src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" /><img width="100px"  
+height="200px"	src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /><img width="100px"
+height="200px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /><img width="100px"
+height="200px"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
+<img 
+width="100px"
+height="200px"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" />
+<img 
+width="100px"
+height="200px"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img 
+width="100px"
+height="200px"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+</p>
+
+## ☑ Redes Sociais
+<a href="https://www.linkedin.com/in/jos%C3%A9-reis-m-de-oliveira-b16a55177">
+<img width="100px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a>
+<a href="https://stackexchange.com/users/14761443/z%c3%a9-reis-m-olliver"><img width="100px" src="https://cdn-icons-png.flaticon.com/512/2111/2111628.png"></a>
+<a href="https://www.instagram.com/zrmolliver/"><img width="110px" src="https://cdn4.iconfinder.com/data/icons/picons-social/57/38-instagram-3-512.png"></a>
+
+## ☑ Visitas No Perfil 👀
+<p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/Zereis240620/count.svg" />
+ </p>
