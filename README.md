@@ -41,4 +41,4 @@ Sou estudante do curso de **Desenvolvimento de Software Multiplataforma - FATEC*
 
 
 ##  
-<p align="center"><img src="https://memecrunch.com/meme/CG0BH/tchau-obrigado/image.gif?w=400&c=1"></p>
+<p align="center"><img src="https://c.tenor.com/qXf69taYAMwAAAAM/hi-mr-bean.gif"></p>
