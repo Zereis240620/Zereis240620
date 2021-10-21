@@ -41,4 +41,4 @@ Sou estudante do curso de **Desenvolvimento de Software Multiplataforma - FATEC*
 
 
 ##  
-<p align="center"><img src="https://i2.wp.com/techwek.com/wp-content/uploads/2021/02/tchau.gif?resize=500%2C207&ssl=1"></p>
+<p align="center"><img src="https://memecrunch.com/meme/CG0BH/tchau-obrigado/image.gif?w=400&c=1"></p>
