@@ -40,7 +40,7 @@ height="200px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
 </p>
 
-## ☑ Redes Sociais
+## ☑ Redes Sociais 👴
 <a href="https://www.linkedin.com/in/jos%C3%A9-reis-m-de-oliveira-b16a55177">
 <img width="100px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a>
 <a href="https://stackexchange.com/users/14761443/z%c3%a9-reis-m-olliver"><img width="100px" src="https://cdn-icons-png.flaticon.com/512/2111/2111628.png"></a>
