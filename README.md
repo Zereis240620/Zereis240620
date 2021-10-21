@@ -22,22 +22,28 @@ height="200px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img width="100px"  
 height="200px"	src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" /><img width="100px"  
+height="200px"	src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" /><img width="100px"  
 height="200px"	src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /><img width="100px"
+height="200px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" /><img width="100px"
+height="200px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" /><img width="100px"
 height="200px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /><img width="100px"
 height="200px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
 <img 
 width="100px"
 height="200px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" />
-<img 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" /><img 
 width="100px"
 height="200px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /><img 
 width="100px"
 height="200px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+<img 
+width="100px"
+height="200px"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />
+
 </p>
 
 ## ☑ Redes Sociais 👴
@@ -50,3 +56,9 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordm
 <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/Zereis240620/count.svg" />
  </p>
+
+
+##  
+<p align="center">
+<img src="https://i2.wp.com/techwek.com/wp-content/uploads/2021/02/tchau.gif?resize=500%2C207&ssl=1">
+</p>
