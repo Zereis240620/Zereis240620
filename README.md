@@ -5,7 +5,6 @@
 Sou estudante do curso de **Desenvolvimento de Software Multiplataforma - FATEC**, tambem sou formado em **Técnico em Informática - ETEC** e **Técnico em Desenvolvimento de Sistemas - ETEC**.
 
 - Apaixonado Por Tecnologia. 😍
-- Gosto de Ajudar a Comunidade Stack Overflow. 😃
 - Developer Full-Stack 💻
 
 
