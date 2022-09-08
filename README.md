@@ -2,7 +2,7 @@
 <p align="center">
 <img width="200px" src="https://i.pinimg.com/originals/26/6f/4e/266f4e921360ef518df4dd7e95a2b922.gif"></p>
 
-Sou estudante do curso de **Desenvolvimento de Software Multiplataforma - FATEC**, tambem sou formado em **Técnico em Informática - ETEC** e **Técnico em Desenvolvimento de Sistemas - ETEC**.
+Sou estudante do curso de **Sistemas para Internet (ênfase em Internet das Coisas) - UniDomBosco**, tambem sou formado em **Técnico em Informática - ETEC** e **Técnico em Desenvolvimento de Sistemas - ETEC**.
 
 - Apaixonado Por Tecnologia. 😍
 - Developer Full-Stack 💻
@@ -13,6 +13,7 @@ Sou estudante do curso de **Desenvolvimento de Software Multiplataforma - FATEC*
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zereis240620&layout=compact)](https://github.com/Zereis240620/github-readme-stats)
 ## ☑ Minhas Habilidades 💡🚀
 <p float="left">
+        <img width="100px"  height="200px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />          	
 	<img width="100px"  height="200px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
 	<img width="100px"  height="200px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 	<img width="100px"  height="200px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
