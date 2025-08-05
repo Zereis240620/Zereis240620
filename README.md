@@ -32,7 +32,7 @@ Graduado em **Sistemas para Internet (ênfase em Internet das Coisas) - pela Uni
 ## ☑ Redes Sociais 👴
 <a href="https://www.linkedin.com/in/jos%C3%A9-reis-m-de-oliveira-b16a55177"><img width="100px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a>
 <a href="https://stackexchange.com/users/14761443/z%c3%a9-reis-m-olliver"><img width="100px" src="https://cdn-icons-png.flaticon.com/512/2111/2111628.png"></a>
-<a href="https://www.instagram.com/zrmolliver/"><img width="110px" src="https://cdn4.iconfinder.com/data/icons/picons-social/57/38-instagram-3-512.png"></a>
+<a href="https://www.instagram.com/zrm.oliveira/"><img width="110px" src="https://cdn4.iconfinder.com/data/icons/picons-social/57/38-instagram-3-512.png"></a>
 
 ##  
 <p align="center"><img src="https://c.tenor.com/qXf69taYAMwAAAAM/hi-mr-bean.gif"></p>
