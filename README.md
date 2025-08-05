@@ -2,7 +2,7 @@
 <p align="center">
 <img width="200px" src="https://i.pinimg.com/originals/26/6f/4e/266f4e921360ef518df4dd7e95a2b922.gif"></p>
 
-Sou estudante do curso de **Sistemas para Internet (ênfase em Internet das Coisas) - UniDomBosco**, tambem sou formado em **Técnico em Informática - ETEC** e **Técnico em Desenvolvimento de Sistemas - ETEC**.
+Graduado em **Sistemas para Internet (ênfase em Internet das Coisas) - pela UniDomBosco**, tambem sou formado em **Técnico em Informática - ETEC** e **Técnico em Desenvolvimento de Sistemas - ETEC**.
 
 - Apaixonado Por Tecnologia. 😍
 - Developer Full-Stack 💻
@@ -33,12 +33,6 @@ Sou estudante do curso de **Sistemas para Internet (ênfase em Internet das Cois
 <a href="https://www.linkedin.com/in/jos%C3%A9-reis-m-de-oliveira-b16a55177"><img width="100px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a>
 <a href="https://stackexchange.com/users/14761443/z%c3%a9-reis-m-olliver"><img width="100px" src="https://cdn-icons-png.flaticon.com/512/2111/2111628.png"></a>
 <a href="https://www.instagram.com/zrmolliver/"><img width="110px" src="https://cdn4.iconfinder.com/data/icons/picons-social/57/38-instagram-3-512.png"></a>
-
-## ☑ Visitas No Perfil 👀
-<p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/Zereis240620/count.svg" />
- </p>
-
 
 ##  
 <p align="center"><img src="https://c.tenor.com/qXf69taYAMwAAAAM/hi-mr-bean.gif"></p>
